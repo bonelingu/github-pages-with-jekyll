@@ -1,4 +1,7 @@
-
+---
+标题：“您的博客文章标题”
+日期：YYYY-MM-DD 
+---
 ---
 title: "Hello Skye"
 date: 2022-02-17
@@ -19,4 +22,3 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
----
