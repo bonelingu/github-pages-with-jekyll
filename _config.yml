@@ -1,6 +1,7 @@
+
 ---
-title:"Hello Skye"
-date:2022-02-17
+title: "Hello Skye"
+date: 2022-02-17
 ---
 
 title: Hello Skye
@@ -18,3 +19,4 @@ github_username:  your-github-handle # DO NOT include the @ character, or else t
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+---
